@@ -27,7 +27,7 @@ const vignesh = {
 ```
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://i.pinimg.com/originals/5f/f5/58/5ff558571df21d9574a1e400cea334ab.gif" width="600">
 </div>
 
 ---
@@ -131,7 +131,9 @@ const vignesh = {
 ## 🎭 Current Vibe
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzR5dHBqOGJ5YnRwZ3FzcTBxNnZ6dW1wcjRvZmQ5YzBjdnZpZGRuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yeUxljCJjH1rW/giphy.gif" width="300">
+  <br>
+  <img src="https://i.imgur.com/t6JEQMJ.gif" width="50"> 👒 **King of Pirates Mode Activated** 🏴‍☠️ <img src="https://i.imgur.com/t6JEQMJ.gif" width="50">
   
   ### 💭 Developer Philosophy
   
