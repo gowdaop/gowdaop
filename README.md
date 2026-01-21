@@ -1,159 +1,179 @@
-<!-- Pixel Art Header -->
 <div align="center">
 
-```
-█████ ██ ███    ███ ██       ███████ ███    ██  ██████  ██ ███    ██ ███████ ███████ ██████  
-██   ████ ████  ████ ██       ██      ████   ██ ██       ██ ████   ██ ██      ██      ██   ██ 
-███████ ██ ██ ████ ██ ██       █████   ██ ██  ██ ██   ███ ██ ██ ██  ██ █████   █████   ██████  
-██   ██ ██ ██  ██  ██ ██       ██      ██  ██ ██ ██    ██ ██ ██  ██ ██ ██      ██      ██   ██ 
-██   ██ ██ ██      ██ ███████ ███████ ██   ████  ██████  ██ ██   ████ ███████ ███████ ██   ██
-```
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=KS%20VIGNESH&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20ML%20Engineer%20%7C%20Backend%20Wizard&descAlignY=60&descSize=18)
 
-# ⚡ KS VIGNESH ⚡
-### `Backend Sorcerer 🔮 | AI Architect 🤖 | React Ninja 🥷`
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=25&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+FastAPI+%7C+React+%7C+LangChain;%3E+Building+the+future+line+by+line;%3E+System.out.println(%22Hello+World%22);%3E+%3C200ms+latency+trade+systems)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=gowdaop&color=00ff41&style=flat-square&label=VISITORS)
+<!-- Pixel Stats Card -->
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=gowdaop&theme=road_trip&pixelate_avatar=true&screen_effect=true" alt="Pixel Stats" width="800"/>
 
 </div>
 
 ---
 
-## 🎮 PLAYER STATS
+<div align="center">
 
-```ascii
-╔══════════════════════════════════════════════════════════════════╗
-║  NAME: KS Vignesh                    CLASS: AI/ML Engineer       ║
-║  LEVEL: 8.3 CGPA                     GUILD: JSS Tech Academy     ║
-║  TITLE: Oracle Cloud Gen AI Pro      ROLE: VERVE Video Lead      ║
-╠══════════════════════════════════════════════════════════════════╣
-║  CURRENT QUEST: Building scalable microservices & AI systems     ║
-║  SPECIAL ABILITY: <200ms trade replication magic ⚡               ║
-╚══════════════════════════════════════════════════════════════════╝
+### ⚡ LOADING PROFILE DATA... ⚡
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&width=600&height=60&lines=%3E+INITIALIZING+SYSTEMS...;%3E+FastAPI+%7C+React+%7C+LangChain;%3E+Trade+Replication+%3C200ms;%3E+AI+Document+Analysis+92%25;%3E+READY+TO+INNOVATE+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🎮 CHARACTER STATS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+```yaml
+name: "KS Vignesh"
+class: "Full-Stack AI Engineer"
+level: 8.3
+guild: "JSS Academy of Technical Education"
+
+experience:
+  - Backend Architecture ████████░░ 85%
+  - AI/ML Engineering  █████████░ 92%
+  - React Development  ███████░░░ 70%
+  - System Design      ████████░░ 80%
+
+certifications:
+  - Oracle Cloud Generative AI Professional ✓
+  
+achievements:
+  - VERVE Video Team Lead
+  - <200ms Trade Replication
+  - 92% AI Accuracy Rate
 ```
+
+</td>
+<td width="50%" valign="top">
+
+```yaml
+inventory:
+  primary_weapon: "Python + FastAPI"
+  secondary_weapon: "React + TypeScript"
+  armor: "Docker Containers"
+  accessories:
+    - Redis Cache
+    - PostgreSQL Shield
+    - WebSocket Blade
+    
+active_quests:
+  - Trade Replication System [████████░░] 80%
+  - AI Legal Analyzer v2.0   [██████████] 95%
+  - React Mastery            [██████░░░░] 60%
+  
+special_abilities:
+  - Async/Await Time Control
+  - Microservices Summoning
+  - RAG Domain Expansion
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚔️ LEGENDARY WEAPONS (Tech Stack)
 
 <details>
-<summary>📜 <b>View Character Sheet</b></summary>
+<summary><b>🐍 Backend Arsenal</b></summary>
+<br>
 
-```typescript
-interface Developer {
-  name: "KS Vignesh";
-  class: "Full-Stack AI Engineer";
-  alignment: "Chaotic Good";
-  
-  stats: {
-    intelligence: 92;    // AI/ML mastery
-    dexterity: 88;       // Code speed
-    wisdom: 83;          // Architecture design
-    charisma: 95;        // Team leadership
-  };
-  
-  equipment: {
-    primaryWeapon: "Python + FastAPI",
-    secondaryWeapon: "React + TypeScript",
-    armor: "Docker Container",
-    accessory: "Redis Cache Ring"
-  };
-  
-  abilities: [
-    "Trade Replication Jutsu (<200ms)",
-    "Document Analysis Domain Expansion",
-    "Microservices Summoning",
-    "Async/Await Time Control"
-  ];
-}
-```
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>⚛️ Frontend Magic</b></summary>
+<br>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🤖 AI/ML Spells</b></summary>
+<br>
+
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![Transformers](https://img.shields.io/badge/🤗_Transformers-FF6F00?style=for-the-badge&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Architecture-6366F1?style=for-the-badge&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00A6FF?style=for-the-badge&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🛠️ DevOps Tools</b></summary>
+<br>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </details>
 
 ---
 
-## 🗡️ LEGENDARY ARTIFACTS (Projects)
+## 🏆 EPIC ACHIEVEMENTS (Projects)
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
 
-### ⚔️ ARTIFACT #1: Legal Document Analyzer
+### 🤖 AI Legal Document Analyzer
 
-```
-╭─────────────────────────────────────────────╮
-│  🤖 AI-POWERED CONTRACT INTELLIGENCE        │
-│                                             │
-│  ⚡ Tech Stack:                             │
-│     • FastAPI + Milvus + LangChain          │
-│     • RAG Architecture                      │
-│                                             │
-│  📊 Power Stats:                            │
-│     • 100+ contracts/hour                   │
-│     • 92% accuracy                          │
-│     • Microservices architecture            │
-╰─────────────────────────────────────────────╯
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+
+**Microservices AI Platform**
+
+```diff
++ 100+ contracts/hour processing
++ 92% accuracy in clause extraction
++ FastAPI + Milvus + LangChain
++ RAG Architecture implementation
 ```
 
-### ⚔️ ARTIFACT #2: cTrader Trade Copier
-
-```
-╭─────────────────────────────────────────────╮
-│  ⚡ REAL-TIME TRADE REPLICATION SYSTEM       │
-│                                             │
-│  ⚡ Tech Stack:                             │
-│     • Python + WebSocket + Redis            │
-│     • Fault-tolerant design                 │
-│                                             │
-│  📊 Power Stats:                            │
-│     • <200ms latency                        │
-│     • 60% performance boost                 │
-│     • Multi-account sync                    │
-╰─────────────────────────────────────────────╯
-```
-
-</div>
-
----
-
-## 🎯 SKILL TREE
-
-<details open>
-<summary><b>🔧 Backend Magic</b></summary>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00A6FF?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logoColor=white)
+
+</td>
+<td width="50%" align="center">
+
+### ⚡ cTrader Trade Copier
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+**Real-Time Replication System**
+
+```diff
++ <200ms synchronization latency
++ 60% performance improvement
++ Python + WebSocket + Redis
++ Fault-tolerant architecture
+```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>🎨 Frontend Jutsu</b></summary>
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🤖 AI/ML Arsenal</b></summary>
-
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=flat-square&logo=huggingface&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>⚙️ DevOps Techniques</b></summary>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</details>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -161,109 +181,108 @@ interface Developer {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gowdaop&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41&ring_color=00ff41" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gowdaop&theme=radical&hide_border=true&background=0D1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gowdaop&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gowdaop&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="Streak Stats"/>
 
 </div>
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowdaop&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff41&text_color=00ff41)
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowdaop&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff41&text_color=00ff41&langs_count=10" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=gowdaop&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+
+</div>
+
+---
+
+## 🎭 CURRENT MODE
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/yeUxljCJjH1rW/giphy.gif" width="300" alt="Luffy"/>
+
+### 👒 KING OF PIRATES MODE ACTIVATED 🏴‍☠️
 
 ```
-    _______________
-   |@@@@|     |####|
-   |@@@@|     |####|     ACHIEVEMENT UNLOCKED!
-   |@@@@|     |####|     ⭐ Code Warrior
-   \@@@@|     |####/     ⭐ AI Architect  
-    \@@@|     |###/      ⭐ System Designer
-     `@@|_____|##'       ⭐ Bug Slayer
-          (O)
-       .-''''-.
-      /  * *  \
-     |   < <   |
-      \  ___  /
-       '._  _.'
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║  "Throughout Heaven and Earth,                             ║
+║   I alone am the honored one."                             ║
+║                                          — Satoru Gojo 🤞  ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-## 🎭 CURRENT VIBE
+## 🌊 ACTIVE MISSIONS
+
+```javascript
+const currentQuests = {
+  main: {
+    name: "Enterprise Trade Replication",
+    progress: "████████░░",
+    completion: 80,
+    reward: "Institutional-grade system"
+  },
+  
+  side: {
+    name: "AI Document Analyzer v2.0",
+    progress: "█████████░",
+    completion: 90,
+    reward: "Production-ready deployment"
+  },
+  
+  training: {
+    name: "React Architecture Mastery",
+    progress: "██████░░░░",
+    completion: 60,
+    reward: "Full-stack enlightenment"
+  }
+};
+
+// Execute missions
+while (!allQuestsComplete()) {
+  writeCode();
+  solveProblem();
+  levelUp();
+}
+```
+
+---
+
+## 🎌 ANIME INSPIRATION MATRIX
 
 <div align="center">
 
-```
-    .---.
-   / . . \      "Throughout Heaven and Earth,
-  /   Y   \      I alone am the honored one."
- |  (_|_)  |     
-  \   -   /              — Satoru Gojo 🤞
-   '.___.´
-    
-   (\___/)     👒 ONE PIECE MODE: ACTIVATED 🏴‍☠️
-   (='.'=)     
-   (")_(")
-```
-
-### 🌊 PURSUING THE CODE PIECE
+|  🎬  |  ⚔️  |  🍜  |  🏴‍☠️  |
+|:---:|:---:|:---:|:---:|
+| **GHIBLI** | **JJK** | **NARUTO** | **ONE PIECE** |
+| Spirited Away | Domain Expansion | Talk no Jutsu | Gear Fifth |
+| *Ethereal beauty* | *Limitless power* | *Never give up* | *Freedom* |
 
 </div>
 
 ```python
-class PirateKing:
+class AnimeDeveloper:
     def __init__(self):
-        self.dream = "Build the world's best systems"
-        self.crew = ["Python", "React", "FastAPI", "LangChain"]
-        self.treasure = "Clean, scalable, beautiful code"
+        self.inspiration = {
+            "ghibli": "Create beautiful, magical experiences",
+            "jjk": "Push limits beyond infinity",
+            "naruto": "Never give up on the code",
+            "one_piece": "Adventure through every tech stack"
+        }
     
-    def conquer_grand_line(self):
-        while not self.found_one_piece():
-            self.write_code()
-            self.solve_problems()
-            self.level_up()
-        return "I'm gonna be King of the Engineers! 👑"
+    def code_with_passion(self):
+        return "Building dreams one commit at a time! 🚀"
 ```
-
----
-
-## 🌌 ANIME INSPIRATION MATRIX
-
-<div align="center">
-
-|  🎬 GHIBLI  |  ⚔️ JJK  |  🍜 NARUTO  |  🏴‍☠️ ONE PIECE  |
-|:---:|:---:|:---:|:---:|
-| **Spirited Away** | **Domain Expansion** | **Talk no Jutsu** | **Gear Fifth** |
-| *Ethereal beauty* | *Limitless power* | *Never give up* | *Freedom* |
-| `creativity++;` | `power = Infinity;` | `determination++;` | `adventure();` |
-
-</div>
-
----
-
-## 🎯 ACTIVE QUESTS
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────┐
-│ 🔄 MAIN QUEST: Enterprise-grade trade replication       │
-│    Status: [████████░░] 80% Complete                    │
-│                                                          │
-│ 📄 SIDE QUEST: AI document analyzer v2.0                │
-│    Status: [██████████] 90% Complete                    │
-│                                                          │
-│ ⚛️ LEARNING: Advanced React patterns + architecture     │
-│    Status: [██████░░░░] 60% Complete                    │
-└─────────────────────────────────────────────────────────┘
-```
-
-</div>
 
 ---
 
@@ -275,17 +294,9 @@ class PirateKing:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshks2003@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gowdaop)
 
-```ascii
-    ╔════════════════════════════════════╗
-    ║  Ready to collaborate? Let's talk! ║
-    ╚════════════════════════════════════╝
-         \
-          \   ^__^
-           \  (oo)\_______
-              (__)\       )\/\
-                  ||----w |
-                  ||     ||
-```
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=gowdaop&color=00ff41&style=for-the-badge&label=VISITORS)
 
 </div>
 
@@ -293,21 +304,29 @@ class PirateKing:
 
 <div align="center">
 
-### 💾 SAVE POINT REACHED
-
 ```
-████████████████████████████████████████ 100%
-
-Game Saved Successfully! 
-Continue your journey tomorrow...
+████████████████████████████████████████████████████████████████
+█                                                              █
+█   🎮 SAVE POINT REACHED                                      █
+█                                                              █
+█   Progress: [████████████████████████████████] 100%         █
+█                                                              █
+█   Game saved successfully!                                   █
+█   Continue your journey tomorrow...                          █
+█                                                              █
+████████████████████████████████████████████████████████████████
 ```
 
-**⚡ "Code is poetry, bugs are just plot twists" ⚡**
+### ⚡ *"Code is poetry, bugs are just plot twists"* ⚡
 
-<sub>Made with 💜, ☕, and late-night debugging sessions</sub>
+<sub>Made with 💜, ☕, and endless debugging sessions</sub>
+
+<br>
 
 ```
 [Press START to continue...]
 ```
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
 </div>
