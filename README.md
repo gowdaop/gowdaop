@@ -247,13 +247,13 @@ key_achievements:
 
 ---
 
-## 🎭 CURRENT MODE
+##  CURRENT Motivation
 
 <div align="center">
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJ2OXJqYjZmMjVyZnV4ZGloa3AyaHdwZWJnZnUxYW5oZWNxN2gwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DwZ392mpIdkvrvTnjm/giphy.gif" width="300" alt="Luffy"/>
 
-### 👒 KING OF PIRATES MODE ACTIVATED 🏴‍☠️
+### KING OF PIRATES
 
 ```
 ╔════════════════════════════════════════════════════════════╗
@@ -302,35 +302,6 @@ while (!allQuestsComplete()) {
   levelUp();
 }
 ```
-
----
-
-## 🎌 ANIME INSPIRATION MATRIX
-
-<div align="center">
-
-|  🎬  |  ⚔️  |  🍜  |  🏴‍☠️  |
-|:---:|:---:|:---:|:---:|
-| **GHIBLI** | **JJK** | **NARUTO** | **ONE PIECE** |
-| Spirited Away | Ryoiki Tenkai | Tokojutsu | Gear Fifth |
-| *Ethereal beauty* | *Limitless power* | *Never give up* | *Freedom* |
-
-</div>
-
-```python
-class AnimeDeveloper:
-    def __init__(self):
-        self.inspiration = {
-            "ghibli": "Create beautiful, magical experiences",
-            "jjk": "Push limits beyond infinity",
-            "naruto": "Never give up on the code",
-            "one_piece": "Adventure through every tech stack"
-        }
-    
-    def code_with_passion(self):
-        return "Building dreams one commit at a time! 🚀"
-```
-
 ---
 
 ## 📡 COMMUNICATION CHANNELS
@@ -347,33 +318,9 @@ class AnimeDeveloper:
 
 </div>
 
+
+```
+```
+### ⚡ *"Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning"*
 ---
 
-<div align="center">
-
-```
-████████████████████████████████████████████████████████████████
-█                                                              █
-█   🎮 SAVE POINT REACHED                                      █
-█                                                              █
-█   Progress: [████████████████████████████████] 100%         █
-█                                                              █
-█   Game saved successfully!                                   █
-█   Continue your journey tomorrow...                          █
-█                                                              █
-████████████████████████████████████████████████████████████████
-```
-
-### ⚡ *"Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning"* ⚡
-
-<sub>Made with Passion, ☕, and endless debugging sessions and sleepless nights</sub>
-
-<br>
-
-```
-[Press START to continue...]
-```
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
-
-</div>
