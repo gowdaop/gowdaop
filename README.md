@@ -1,6 +1,5 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=KS%20VIGNESH&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20ML%20Engineer%20%7C%20Backend%20Wizard&descAlignY=60&descSize=18)
 
 <!-- Bio Stats Card -->
 <table>
@@ -10,19 +9,20 @@
 
 ### 👨‍💻 KS VIGNESH
 
-**AI Engineering Intern @ V2Soft**  
+** Engineering Intern @ **  
 📍 Bengaluru, India  
 🎓 B.E. in AI & ML @ JSS Academy  
 ⭐ CGPA: 8.3/10.0
+⭐ EX Engineering Intern @ V2Soft
 
 </td>
 <td align="left" width="50%">
 
 ```yaml
 current_role:
-  company: "V2Soft"
-  position: "AI Engineering Intern"
-  duration: "July 2025 - Oct 2025"
+  company: ""
+  position: "Engineering Intern"
+  duration: "Jan 2026 - "
   location: "Bengaluru, India"
 
 education:
@@ -89,7 +89,7 @@ leadership:
 
 ```yaml
 experience:
-  current:
+  Internship:
     company: "V2Soft"
     role: "AI Engineering Intern"
     duration: "July 2025 - Oct 2025"
@@ -200,7 +200,7 @@ key_achievements:
 
 ### 🔗 Decentralized Mental Health Network
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitcoin/bitcoin-original.svg" width="100">
+<img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" width="100">
 
 **Blockchain-Based Secure Healthcare Platform**
 
@@ -241,7 +241,7 @@ key_achievements:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gowdaop&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+
 
 </div>
 
@@ -251,16 +251,16 @@ key_achievements:
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/yeUxljCJjH1rW/giphy.gif" width="300" alt="Luffy"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJ2OXJqYjZmMjVyZnV4ZGloa3AyaHdwZWJnZnUxYW5oZWNxN2gwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DwZ392mpIdkvrvTnjm/giphy.gif" width="300" alt="Luffy"/>
 
 ### 👒 KING OF PIRATES MODE ACTIVATED 🏴‍☠️
 
 ```
 ╔════════════════════════════════════════════════════════════╗
 ║                                                            ║
-║  "Throughout Heaven and Earth,                             ║
-║   I alone am the honored one."                             ║
-║                                          — Satoru Gojo 🤞  ║
+║  "You have no enemies. No one has enemies.                 ║
+║    There is no reason to harm anyone in the world."        ║
+║                                          — Thors           ║
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
 ```
@@ -312,7 +312,7 @@ while (!allQuestsComplete()) {
 |  🎬  |  ⚔️  |  🍜  |  🏴‍☠️  |
 |:---:|:---:|:---:|:---:|
 | **GHIBLI** | **JJK** | **NARUTO** | **ONE PIECE** |
-| Spirited Away | Domain Expansion | Talk no Jutsu | Gear Fifth |
+| Spirited Away | Ryoiki Tenkai | Tokojutsu | Gear Fifth |
 | *Ethereal beauty* | *Limitless power* | *Never give up* | *Freedom* |
 
 </div>
@@ -364,9 +364,9 @@ class AnimeDeveloper:
 ████████████████████████████████████████████████████████████████
 ```
 
-### ⚡ *"Code is poetry, bugs are just plot twists"* ⚡
+### ⚡ *"Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning"* ⚡
 
-<sub>Made with 💜, ☕, and endless debugging sessions</sub>
+<sub>Made with Passion, ☕, and endless debugging sessions and sleepless nights</sub>
 
 <br>
 
