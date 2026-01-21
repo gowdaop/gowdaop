@@ -119,11 +119,11 @@ const vignesh = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gowdaop&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gowdaop&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=6366F1&amp;fire=6366F1&amp;currStreakLabel=6366F1" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gowdaop&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gowdaop&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=15&amp;margin-h=15" />
 </div>
 
 ---
@@ -191,7 +191,7 @@ class CurrentMission:
   
   <br>
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=gowdaop&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
+  ![Profile Views](https://komarev.com/ghpvc/?username=gowdaop&amp;color=6366F1&amp;style=for-the-badge&amp;label=PROFILE+VIEWS)
   
 </div>
 
