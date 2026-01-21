@@ -1,6 +1,6 @@
 <div align="center">
 
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=KS%20VIGNESH&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20ML%20Engineer%20%7C%20Backend%20Wizard&descAlignY=60&descSize=18)
 
 <!-- Pixel Stats Card -->
 <img src="https://pixel-profile.vercel.app/api/github-stats?username=gowdaop&theme=road_trip&pixelate_avatar=true&screen_effect=true" alt="Pixel Stats" width="800"/>
@@ -27,47 +27,50 @@
 
 ```yaml
 name: "KS Vignesh"
-class: "Full-Stack AI Engineer"
+class: "AI Engineering Intern @ V2Soft"
 level: 8.3
 guild: "JSS Academy of Technical Education"
+location: "Bengaluru, India"
 
-experience:
-  - Backend Architecture ████████░░ 85%
-  - AI/ML Engineering  █████████░ 92%
-  - React Development  ███████░░░ 70%
-  - System Design      ████████░░ 80%
+education:
+  degree: "B.E. in AI & Machine Learning"
+  institution: "JSS Academy"
+  duration: "Dec 2022 - Present"
+  cgpa: "8.3 / 10.0"
 
 certifications:
-  - Oracle Cloud Generative AI Professional ✓
+  - Oracle Cloud Generative AI Professional
+  - Credential: 1Z0-1127-25
   
-achievements:
-  - VERVE Video Team Lead
-  - <200ms Trade Replication
-  - 92% AI Accuracy Rate
+leadership:
+  - Video Team Head @ VERVE
+  - Managing Bengaluru's Premier Techno-Cultural Fest
 ```
 
 </td>
 <td width="50%" valign="top">
 
 ```yaml
-inventory:
-  primary_weapon: "Python + FastAPI"
-  secondary_weapon: "React + TypeScript"
-  armor: "Docker Containers"
-  accessories:
-    - Redis Cache
-    - PostgreSQL Shield
-    - WebSocket Blade
+experience:
+  current:
+    company: "V2Soft"
+    role: "AI Engineering Intern"
+    duration: "July 2025 - Oct 2025"
+    location: "Bengaluru, India"
     
-active_quests:
-  - Trade Replication System [████████░░] 80%
-  - AI Legal Analyzer v2.0   [██████████] 95%
-  - React Mastery            [██████░░░░] 60%
-  
-special_abilities:
-  - Async/Await Time Control
-  - Microservices Summoning
-  - RAG Domain Expansion
+  freelance:
+    company: "NezDev"
+    role: "cTrader API Developer"
+    duration: "Sept 2025 - Present"
+    location: "Remote"
+
+key_achievements:
+  - 60% latency reduction in RAG systems
+  - 75% throughput improvement via async queues
+  - <200ms trade replication synchronization
+  - 92% accuracy in legal document analysis
+  - 2,200+ lines production Python code
+  - Deployed for 15+ internal teams
 ```
 
 </td>
