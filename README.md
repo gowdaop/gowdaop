@@ -114,8 +114,8 @@ const vignesh = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gowdaop&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowdaop&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gowdaop&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=6366F1&amp;icon_color=6366F1&amp;text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowdaop&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=6366F1&amp;text_color=C9D1D9&amp;langs_count=8"/>
 </div>
 
 <div align="center">
@@ -131,7 +131,9 @@ const vignesh = {
 ## 🎭 Current Vibe
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzR5dHBqOGJ5YnRwZ3FzcTBxNnZ6dW1wcjRvZmQ5YzBjdnZpZGRuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yeUxljCJjH1rW/giphy.gif" width="300">
+  <br>
+  <img src="https://i.imgur.com/t6JEQMJ.gif" width="50"> 👒 **King of Pirates Mode Activated** 🏴‍☠️ <img src="https://i.imgur.com/t6JEQMJ.gif" width="50">
   
   ### 💭 Developer Philosophy
   
