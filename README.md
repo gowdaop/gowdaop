@@ -114,16 +114,16 @@ const vignesh = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gowdaop&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=6366F1&amp;icon_color=6366F1&amp;text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowdaop&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=6366F1&amp;text_color=C9D1D9&amp;langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gowdaop&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowdaop&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gowdaop&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=6366F1&amp;fire=6366F1&amp;currStreakLabel=6366F1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gowdaop&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gowdaop&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=15&amp;margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gowdaop&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -191,7 +191,7 @@ class CurrentMission:
   
   <br>
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=gowdaop&amp;color=6366F1&amp;style=for-the-badge&amp;label=PROFILE+VIEWS)
+  ![Profile Views](https://komarev.com/ghpvc/?username=gowdaop&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
   
 </div>
 
