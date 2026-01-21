@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=KS%20VIGNESH&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20ML%20Engineer%20%7C%20Backend%20Wizard&descAlignY=60&descSize=18)
+
 
 <!-- Pixel Stats Card -->
 <img src="https://pixel-profile.vercel.app/api/github-stats?username=gowdaop&theme=road_trip&pixelate_avatar=true&screen_effect=true" alt="Pixel Stats" width="800"/>
@@ -13,7 +13,7 @@
 
 ### ⚡ LOADING PROFILE DATA... ⚡
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&width=600&height=60&lines=%3E+INITIALIZING+SYSTEMS...;%3E+FastAPI+%7C+React+%7C+LangChain;%3E+Trade+Replication+%3C200ms;%3E+AI+Document+Analysis+92%25;%3E+READY+TO+INNOVATE+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Backend+Sorcerer+%F0%9F%94%AE;AI+Architect+%F0%9F%A4%96;React+Ninja+%F0%9F%A5%B7;FastAPI+%7C+LangChain+%7C+React;Trade+Systems+%3C200ms+%E2%9A%A1;Building+the+Future+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
