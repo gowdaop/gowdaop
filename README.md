@@ -2,8 +2,45 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=KS%20VIGNESH&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20ML%20Engineer%20%7C%20Backend%20Wizard&descAlignY=60&descSize=18)
 
-<!-- Pixel Stats Card -->
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=gowdaop&theme=road_trip&pixelate_avatar=true&screen_effect=true" alt="Pixel Stats" width="800"/>
+<!-- Bio Stats Card -->
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://i.postimg.cc/6565BTqs/Gemini_Generated_Image_gtq5mbgtq5mbgtq5.png" width="200" style="border-radius: 50%; border: 3px solid #00ff41;"/>
+
+### 👨‍💻 KS VIGNESH
+
+**AI Engineering Intern @ V2Soft**  
+📍 Bengaluru, India  
+🎓 B.E. in AI & ML @ JSS Academy  
+⭐ CGPA: 8.3/10.0
+
+</td>
+<td align="left" width="50%">
+
+```yaml
+current_role:
+  company: "V2Soft"
+  position: "AI Engineering Intern"
+  duration: "July 2025 - Oct 2025"
+  location: "Bengaluru, India"
+
+education:
+  degree: "B.E. AI & Machine Learning"
+  university: "JSS Academy of Technical Education"
+  duration: "Dec 2022 - Present"
+  cgpa: "8.3"
+
+certifications:
+  - Oracle Cloud Gen AI Professional (1Z0-1127-25)
+
+leadership:
+  - Video Team Head @ VERVE Fest
+```
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -139,7 +176,7 @@ key_achievements:
 
 ### 🤖 AI Legal Document Analyzer
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="100">
 
 **Microservices AI Platform**
 
@@ -148,31 +185,38 @@ key_achievements:
 + 92% accuracy in clause extraction
 + FastAPI + Milvus + LangChain
 + RAG Architecture implementation
++ 45% reduction in database load
++ 180ms API response time
 ```
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Milvus](https://img.shields.io/badge/Milvus-00A6FF?style=flat-square&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td>
 <td width="50%" align="center">
 
-### ⚡ cTrader Trade Copier
+### 🔗 Decentralized Mental Health Network
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitcoin/bitcoin-original.svg" width="100">
 
-**Real-Time Replication System**
+**Blockchain-Based Secure Healthcare Platform**
 
 ```diff
-+ <200ms synchronization latency
-+ 60% performance improvement
-+ Python + WebSocket + Redis
-+ Fault-tolerant architecture
++ Secure patient data storage
++ Decentralized architecture
++ Smart contract automation
++ Privacy-preserving design
++ Tamper-proof medical records
++ Patient-controlled access
 ```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)
 
 </td>
 </tr>
