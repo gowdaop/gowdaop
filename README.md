@@ -20,9 +20,9 @@
 
 ```yaml
 current_role:
-  company: ""
-  position: "Engineering Intern"
-  duration: "Jan 2026 - "
+  company: "Lantrasoft"
+  position: "Intern Trainee"
+  duration: "Jan 2026 - Present"
   location: "Bengaluru, India"
 
 education:
