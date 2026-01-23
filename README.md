@@ -9,11 +9,11 @@
 
 ### 👨‍💻 KS VIGNESH
 
-** Engineering Intern @ **  
+** Intern Trainee @ Lantrasoft **  
 📍 Bengaluru, India  
 🎓 B.E. in AI & ML @ JSS Academy  
 ⭐ CGPA: 8.3/10.0
-⭐ EX Engineering Intern @ V2Soft
+⭐ EX AI Intern @ V2Soft
 
 </td>
 <td align="left" width="50%">
