@@ -12,7 +12,7 @@
 ** Intern Trainee @ Lantrasoft **  
 📍 Bengaluru, India  
 🎓 B.E. in AI & ML @ JSS Academy  
-⭐ CGPA: 8.3/10.0
+⭐ CGPA: 8.5/10.0
 ⭐ EX AI Intern @ V2Soft
 
 </td>
