@@ -150,7 +150,7 @@ Logging, monitoring and profiling
 | **watsonx.ai** | ● | ● | ● |
 | **watsonx.data** | ● | ● | ● |
 | **watsonx Orchestrate** | ● | ● | ● |
-| **watsonx.governance** | ● | ○ | ○ |
+| **watsonx.governance** | ● | ● | ● |
 
 <sub>● earned &nbsp;&nbsp; ○ in progress &nbsp;·&nbsp; issued by IBM &nbsp;·&nbsp; [**verify on Credly ↗**](https://www.credly.com/users/k-s-vignesh.a0d09765)</sub>
 
