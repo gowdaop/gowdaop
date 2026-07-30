@@ -93,12 +93,11 @@ Fault tolerance and retry design
 </td>
 <td valign="top" width="50%">
 
-<img src="https://skillicons.dev/icons?i=docker,githubactions,nginx&theme=dark" height="38" alt=""/>
+<img src="https://skillicons.dev/icons?i=docker,nginx&theme=dark" height="38" alt=""/>
 
 #### Infrastructure & ops
 
-Containerised deploys with Docker  
-CI/CD pipelines  
+Containerised deploys with Docker   
 Cloud provisioning on GCP  
 Logging, monitoring and profiling
 
