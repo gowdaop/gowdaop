@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/gowdaop/gowdaop/main/assets/banner.svg?v=3" width="100%" alt="KS Vignesh — backend · applied AI · Bengaluru"/>
+<img src="https://raw.githubusercontent.com/gowdaop/gowdaop/main/assets/banner.svg?v=3" width="100%" alt="KS Vignesh  backend · applied AI · Bengaluru"/>
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
 ## <samp>▸ 01 &nbsp;WHO</samp>
 
-I build backend systems and applied-AI services — retrieval pipelines, APIs, and the
+I build backend systems and applied-AI services  retrieval pipelines, APIs, and the
 infrastructure that keeps them fast. Currently at **Lantrasoft** in Bengaluru, finishing a
 B.E. in AI & Machine Learning alongside it.
 
@@ -20,12 +20,12 @@ B.E. in AI & Machine Learning alongside it.
 
 **Now** &nbsp;·&nbsp; `Jan 2026 —`
 
-Junior Software Developer — **Lantrasoft**  
+Junior Software Developer  **Lantrasoft**  
 Bengaluru, India
 
 **Before**
 
-AI Engineering Intern — **V2Soft**  
+AI Engineering Intern  **V2Soft**  
 Freelance Backend Developer
 
 </td>
@@ -39,7 +39,7 @@ CGPA **8.47**
 
 **Also**
 
-Video Team Head — **VERVE Fest**
+Video Team Head  **VERVE Fest**
 
 </td>
 </tr>
@@ -143,7 +143,7 @@ Logging, monitoring and profiling
 
 </div>
 
-**IBM watsonx** — full platform track
+**IBM watsonx**  full platform track
 
 | | Foundation | Intermediate | Advanced |
 |:---|:---:|:---:|:---:|
@@ -163,7 +163,6 @@ $ cat now.txt
 
   learning    distributed systems · agentic workflows · rust
   reading     designing data-intensive applications
-  next        msc abroad — autumn 2027
 ```
 
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -180,7 +179,7 @@ $ cat now.txt
 
 ### *There is no reason to harm anyone in the world."*
 
-#### — Thors
+####  Thors
 
 <br>
 
