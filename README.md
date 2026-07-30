@@ -1,11 +1,8 @@
-<img src="https://raw.githubusercontent.com/gowdaop/gowdaop/main/assets/banner.svg?v=2" width="100%" alt="KS Vignesh — backend · applied AI · Bengaluru"/>
+<img src="https://raw.githubusercontent.com/gowdaop/gowdaop/main/assets/banner.svg?v=3" width="100%" alt="KS Vignesh — backend · applied AI · Bengaluru"/>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/portfolio-22D3EE?style=for-the-badge&logo=githubpages&logoColor=0D1117&labelColor=0D1117&color=22D3EE)](https://gowdaop.github.io/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-818CF8?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117&color=818CF8)](https://www.linkedin.com/in/gowdaop/)
-[![Credly](https://img.shields.io/badge/credly-F472B6?style=for-the-badge&logo=credly&logoColor=0D1117&labelColor=0D1117&color=F472B6)](https://www.credly.com/users/k-s-vignesh.a0d09765)
-[![Email](https://img.shields.io/badge/email-8B97AD?style=for-the-badge&logo=maildotru&logoColor=0D1117&labelColor=0D1117&color=8B97AD)](mailto:vigneshks2003@gmail.com)
+<a href="https://gowdaop.github.io/"><img src="https://img.shields.io/badge/%20%20%20PORTFOLIO%20%20%20-0D1117?style=for-the-badge&logo=githubpages&logoColor=22D3EE" alt="Portfolio" height="36"/></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/gowdaop/"><img src="https://img.shields.io/badge/%20%20%20%20LINKEDIN%20%20%20%20-0D1117?style=for-the-badge&logo=linkedin&logoColor=818CF8" alt="LinkedIn" height="36"/></a>&nbsp;&nbsp;<a href="https://www.credly.com/users/k-s-vignesh.a0d09765"><img src="https://img.shields.io/badge/%20%20%20%20%20CREDLY%20%20%20%20%20-0D1117?style=for-the-badge&logo=credly&logoColor=F472B6" alt="Credly" height="36"/></a>&nbsp;&nbsp;<a href="mailto:vigneshks2003@gmail.com"><img src="https://img.shields.io/badge/%20%20%20%20%20%20EMAIL%20%20%20%20%20%20-0D1117?style=for-the-badge&logo=gmail&logoColor=8B97AD" alt="Email" height="36"/></a>
 
 </div>
 
@@ -56,7 +53,9 @@ Video Team Head — **VERVE Fest**
 <tr>
 <td valign="top" width="50%">
 
-### `▚` &nbsp;AI & retrieval
+<img src="https://skillicons.dev/icons?i=py,pytorch,gcp&theme=dark" height="38" alt=""/>
+
+#### AI & retrieval
 
 RAG pipelines end to end  
 Vector search & embeddings with Milvus  
@@ -67,7 +66,9 @@ LLM latency and token-cost tuning
 </td>
 <td valign="top" width="50%">
 
-### `▞` &nbsp;Backend & APIs
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,redis&theme=dark" height="38" alt=""/>
+
+#### Backend & APIs
 
 FastAPI microservice architecture  
 Async job queues and workers  
@@ -80,7 +81,9 @@ Redis caching layers
 <tr>
 <td valign="top" width="50%">
 
-### `▜` &nbsp;Real-time & distributed
+<img src="https://skillicons.dev/icons?i=rabbitmq,redis,py&theme=dark" height="38" alt=""/>
+
+#### Real-time & distributed
 
 Sub-second event replication  
 Streaming and broker integrations  
@@ -90,7 +93,9 @@ Fault tolerance and retry design
 </td>
 <td valign="top" width="50%">
 
-### `▙` &nbsp;Infrastructure & ops
+<img src="https://skillicons.dev/icons?i=docker,githubactions,nginx&theme=dark" height="38" alt=""/>
+
+#### Infrastructure & ops
 
 Containerised deploys with Docker  
 CI/CD pipelines  
@@ -117,13 +122,12 @@ Logging, monitoring and profiling
 
 <br>
 
-![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=22D3EE)
-![Milvus](https://img.shields.io/badge/Milvus-0D1117?style=flat-square&logoColor=22D3EE&color=0D1117)
-![RAG](https://img.shields.io/badge/RAG-0D1117?style=flat-square&color=0D1117)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-0D1117?style=flat-square&logo=googlecloud&logoColor=818CF8)
-![Transformers](https://img.shields.io/badge/Transformers-0D1117?style=flat-square&logo=huggingface&logoColor=F472B6)
-![watsonx](https://img.shields.io/badge/watsonx-0D1117?style=flat-square&logo=ibm&logoColor=818CF8)
-![WebSocket](https://img.shields.io/badge/WebSocket-0D1117?style=flat-square&color=0D1117)
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=22D3EE" height="30" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Milvus-0D1117?style=for-the-badge&logo=milvus&logoColor=22D3EE" height="30" alt="Milvus"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=F472B6" height="30" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/Vertex%20AI-0D1117?style=for-the-badge&logo=googlecloud&logoColor=818CF8" height="30" alt="Vertex AI"/>
+<img src="https://img.shields.io/badge/IBM%20watsonx-0D1117?style=for-the-badge&logo=ibm&logoColor=818CF8" height="30" alt="IBM watsonx"/>
+<img src="https://img.shields.io/badge/Oracle%20Cloud-0D1117?style=for-the-badge&logo=oracle&logoColor=F472B6" height="30" alt="Oracle Cloud"/>
 
 </div>
 
@@ -131,8 +135,13 @@ Logging, monitoring and profiling
 
 ## <samp>▸ 04 &nbsp;CREDENTIALS</samp>
 
-**Oracle** — Cloud Infrastructure Generative AI Professional · `1Z0-1127-25`
-&nbsp;[**verify ↗**](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F3746238E1ABA4F2017ABDD429E2D0E6EEB17826A1A3DBC3D53C557663BD9AEE)
+<div align="center">
+
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=F3746238E1ABA4F2017ABDD429E2D0E6EEB17826A1A3DBC3D53C557663BD9AEE"><img src="https://img.shields.io/badge/Oracle-Cloud%20Infrastructure%20Generative%20AI%20Professional-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000" height="34" alt="Oracle Certified"/></a>
+
+<sub>credential `1Z0-1127-25` · click to verify</sub>
+
+</div>
 
 **IBM watsonx** — full platform track
 
@@ -157,18 +166,27 @@ $ cat now.txt
   next        msc abroad — autumn 2027
 ```
 
-<br>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
 
-<sub><i>"You have no enemies. No one has enemies.<br>
-There is no reason to harm anyone in the world."</i></sub>
+<br>
 
-<sub>— Thors</sub>
+<img src="assets/thors.gif" width="540" alt="Vinland Saga"/>
+
+<br><br>
+
+### *"You have no enemies. No one has enemies.*
+
+### *There is no reason to harm anyone in the world."*
+
+#### — Thors
 
 <br>
 
-<sub><a href="https://gowdaop.github.io/"><b>gowdaop.github.io</b></a></sub>
+### [**gowdaop.github.io**](https://gowdaop.github.io/)
+
+<br>
 
 </div>
 
