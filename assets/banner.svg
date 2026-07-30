@@ -1,187 +1,120 @@
-<img src="./assets/banner.svg" width="100%" alt="KS Vignesh — backend · applied AI · Bengaluru"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="KS Vignesh - backend and applied AI, Bengaluru">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#0A0E1A"/>
+      <stop offset="50%"  stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#141024"/>
+    </linearGradient>
 
-<div align="center">
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#22D3EE"/>
+      <stop offset="45%"  stop-color="#818CF8"/>
+      <stop offset="100%" stop-color="#F472B6"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+                        values="-0.3 0; 0.3 0; -0.3 0" dur="12s" repeatCount="indefinite"/>
+    </linearGradient>
 
-[![Portfolio](https://img.shields.io/badge/portfolio-22D3EE?style=for-the-badge&logo=githubpages&logoColor=0D1117&labelColor=0D1117&color=22D3EE)](https://gowdaop.github.io/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-818CF8?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117&color=818CF8)](https://www.linkedin.com/in/gowdaop/)
-[![Credly](https://img.shields.io/badge/credly-F472B6?style=for-the-badge&logo=credly&logoColor=0D1117&labelColor=0D1117&color=F472B6)](https://www.credly.com/users/k-s-vignesh.a0d09765)
-[![Email](https://img.shields.io/badge/email-8B97AD?style=for-the-badge&logo=maildotru&logoColor=0D1117&labelColor=0D1117&color=8B97AD)](mailto:vigneshks2003@gmail.com)
+    <linearGradient id="hair" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#818CF8" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#F472B6" stop-opacity="0"/>
+    </linearGradient>
 
-</div>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#818CF8" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0"/>
+    </radialGradient>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#1E2536" stroke-width="1"/>
+    </pattern>
 
-## <samp>▸ 01 &nbsp;WHO</samp>
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
 
-I build backend systems and applied-AI services — retrieval pipelines, APIs, and the
-infrastructure that keeps them fast. Currently at **Lantrasoft** in Bengaluru, finishing a
-B.E. in AI & Machine Learning alongside it.
+    <clipPath id="typeClip">
+      <rect x="72" y="204" width="392" height="30">
+        <animate attributeName="width" values="0;0;392;392;0"
+                 keyTimes="0;0.08;0.52;0.92;1" dur="9s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
 
-<table>
-<tr>
-<td valign="top" width="50%">
+    <clipPath id="frame">
+      <rect x="0" y="0" width="1200" height="340" rx="14"/>
+    </clipPath>
+  </defs>
 
-**Now** &nbsp;·&nbsp; `Jan 2026 —`
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <rect width="1200" height="340" fill="url(#grid)" opacity="0.5"/>
+    <ellipse cx="905" cy="165" rx="330" ry="195" fill="url(#glow)"/>
 
-Junior Software Developer — **Lantrasoft**  
-Bengaluru, India
+    <rect x="-260" y="0" width="260" height="340" fill="url(#hair)" opacity="0.10">
+      <animate attributeName="x" values="-260;1200" dur="7s" repeatCount="indefinite"/>
+    </rect>
 
-**Before**
+    <!-- ── neural graph ── -->
+    <g stroke="url(#accent)" stroke-width="1.3" fill="none" opacity="0.6">
+      <path d="M812 78 L906 138 M812 78 L878 214 M906 138 L878 214 M906 138 L1012 102
+               M906 138 L1004 222 M878 214 L1004 222 M1012 102 L1004 222 M1004 222 L1096 164
+               M1012 102 L1096 164 M878 214 L936 288 M936 288 L1004 222 M812 78 L744 164
+               M744 164 L878 214 M744 164 L906 138"
+            stroke-dasharray="1500" stroke-dashoffset="0">
+        <animate attributeName="stroke-dashoffset" values="1500;0" dur="2.8s" fill="freeze"/>
+      </path>
+    </g>
 
-AI Engineering Intern — **V2Soft**  
-Freelance Backend Developer
+    <g fill="#0D1117" stroke="url(#accent)" stroke-width="2">
+      <circle cx="812"  cy="78"  r="5"><animate attributeName="r" values="5;8;5"   dur="3.1s" repeatCount="indefinite"/></circle>
+      <circle cx="906"  cy="138" r="6"><animate attributeName="r" values="6;9.5;6" dur="2.4s" repeatCount="indefinite"/></circle>
+      <circle cx="878"  cy="214" r="5"><animate attributeName="r" values="5;8;5"   dur="3.6s" repeatCount="indefinite"/></circle>
+      <circle cx="1012" cy="102" r="4"><animate attributeName="r" values="4;7;4"   dur="2.9s" repeatCount="indefinite"/></circle>
+      <circle cx="1004" cy="222" r="6"><animate attributeName="r" values="6;9;6"   dur="3.3s" repeatCount="indefinite"/></circle>
+      <circle cx="1096" cy="164" r="4"><animate attributeName="r" values="4;7;4"   dur="2.6s" repeatCount="indefinite"/></circle>
+      <circle cx="936"  cy="288" r="4"><animate attributeName="r" values="4;6.5;4" dur="4.0s" repeatCount="indefinite"/></circle>
+      <circle cx="744"  cy="164" r="5"><animate attributeName="r" values="5;8;5"   dur="3.4s" repeatCount="indefinite"/></circle>
+    </g>
 
-</td>
-<td valign="top" width="50%">
+    <g>
+      <circle r="3.4" fill="#22D3EE" filter="url(#soft)">
+        <animateMotion dur="4.2s" repeatCount="indefinite" path="M812 78 L906 138 L1004 222 L1096 164"/>
+      </circle>
+      <circle r="3.4" fill="#F472B6" filter="url(#soft)">
+        <animateMotion dur="5.4s" repeatCount="indefinite" path="M744 164 L878 214 L936 288"/>
+      </circle>
+      <circle r="2.8" fill="#818CF8" filter="url(#soft)">
+        <animateMotion dur="6.1s" repeatCount="indefinite" path="M1012 102 L906 138 L812 78"/>
+      </circle>
+    </g>
 
-**Study** &nbsp;·&nbsp; `Dec 2022 — Jun 2026`
+    <!-- ── type ── -->
+    <text x="74" y="104" font-family="'SF Mono','JetBrains Mono',Consolas,monospace"
+          font-size="14" letter-spacing="5.5" fill="#5B6478">BACKEND · APPLIED AI</text>
 
-B.E. Artificial Intelligence & ML  
-JSS Academy of Technical Education  
-CGPA **8.47**
+    <text x="70" y="180" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"
+          font-size="74" font-weight="700" letter-spacing="-1" fill="url(#accent)">KS VIGNESH</text>
 
-**Also**
+    <g clip-path="url(#typeClip)">
+      <text x="74" y="227" font-family="'SF Mono','JetBrains Mono',Consolas,monospace"
+            font-size="18" fill="#8B97AD">building systems that stay fast</text>
+    </g>
+    <rect x="466" y="211" width="9" height="19" fill="#22D3EE">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="76;76;466;466;76"
+               keyTimes="0;0.08;0.52;0.92;1" dur="9s" repeatCount="indefinite"/>
+    </rect>
 
-Video Team Head — **VERVE Fest**
+    <text x="74" y="284" font-family="'SF Mono','JetBrains Mono',Consolas,monospace"
+          font-size="13" letter-spacing="2.5" fill="#4B5468">
+      LANTRASOFT &#160;·&#160; BENGALURU, IN
+    </text>
 
-</td>
-</tr>
-</table>
+    <g stroke="url(#accent)" stroke-width="2" fill="none" opacity="0.7">
+      <path d="M30 44 L30 24 L50 24"/>
+      <path d="M1170 296 L1170 316 L1150 316"/>
+    </g>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-## <samp>▸ 02 &nbsp;WHAT I BUILD</samp>
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### `▚` &nbsp;AI & retrieval
-
-RAG pipelines end to end  
-Vector search & embeddings with Milvus  
-LangChain orchestration  
-Document intelligence and extraction  
-LLM latency and token-cost tuning
-
-</td>
-<td valign="top" width="50%">
-
-### `▞` &nbsp;Backend & APIs
-
-FastAPI microservice architecture  
-Async job queues and workers  
-REST and WebSocket services  
-PostgreSQL schema design  
-Redis caching layers
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-### `▜` &nbsp;Real-time & distributed
-
-Sub-second event replication  
-Streaming and broker integrations  
-Concurrency and throughput tuning  
-Fault tolerance and retry design
-
-</td>
-<td valign="top" width="50%">
-
-### `▙` &nbsp;Infrastructure & ops
-
-Containerised deploys with Docker  
-CI/CD pipelines  
-Cloud provisioning on GCP  
-Logging, monitoring and profiling
-
-</td>
-</tr>
-</table>
-
-<sub>Production work lives in private repositories. Happy to walk through architecture and trade-offs on request.</sub>
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-## <samp>▸ 03 &nbsp;STACK</samp>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,fastapi,flask,postgres,redis,docker&theme=dark" alt="Python, FastAPI, Flask, PostgreSQL, Redis, Docker"/>
-<br>
-<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css&theme=dark" alt="React, TypeScript, JavaScript, Tailwind, HTML, CSS"/>
-<br>
-<img src="https://skillicons.dev/icons?i=git,githubactions,nginx,linux,gcp,vscode&theme=dark" alt="Git, GitHub Actions, Nginx, Linux, GCP, VS Code"/>
-
-<br>
-
-![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=22D3EE)
-![Milvus](https://img.shields.io/badge/Milvus-0D1117?style=flat-square&logoColor=22D3EE&color=0D1117)
-![RAG](https://img.shields.io/badge/RAG-0D1117?style=flat-square&color=0D1117)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-0D1117?style=flat-square&logo=googlecloud&logoColor=818CF8)
-![Transformers](https://img.shields.io/badge/Transformers-0D1117?style=flat-square&logo=huggingface&logoColor=F472B6)
-![watsonx](https://img.shields.io/badge/watsonx-0D1117?style=flat-square&logo=ibm&logoColor=818CF8)
-![WebSocket](https://img.shields.io/badge/WebSocket-0D1117?style=flat-square&color=0D1117)
-
-</div>
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-## <samp>▸ 04 &nbsp;CREDENTIALS</samp>
-
-**Oracle** — Cloud Infrastructure Generative AI Professional · `1Z0-1127-25`
-&nbsp;[**verify ↗**](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F3746238E1ABA4F2017ABDD429E2D0E6EEB17826A1A3DBC3D53C557663BD9AEE)
-
-**IBM watsonx** — full platform track
-
-| | Foundation | Intermediate | Advanced |
-|:---|:---:|:---:|:---:|
-| **watsonx.ai** | ● | ● | ● |
-| **watsonx.data** | ● | ● | ● |
-| **watsonx Orchestrate** | ● | ● | ● |
-| **watsonx.governance** | ● | ○ | ○ |
-
-<sub>● earned &nbsp;&nbsp; ○ in progress &nbsp;·&nbsp; issued by IBM &nbsp;·&nbsp; [**verify on Credly ↗**](https://www.credly.com/users/k-s-vignesh.a0d09765)</sub>
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-## <samp>▸ 05 &nbsp;ACTIVITY</samp>
-
-<div align="center">
-
-<img width="47%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gowdaop&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&icon_color=22D3EE&text_color=8B97AD&ring_color=818CF8&cache_seconds=86400"/>
-&nbsp;&nbsp;
-<img width="34%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowdaop&layout=compact&hide_border=true&bg_color=00000000&title_color=818CF8&text_color=8B97AD&langs_count=6&cache_seconds=86400"/>
-
-</div>
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-## <samp>▸ 06 &nbsp;CURRENTLY</samp>
-
-```console
-$ cat now.txt
-
-  learning    distributed systems · agentic workflows · rust
-  reading     designing data-intensive applications
-  next        msc abroad — autumn 2027
-```
-
-<br>
-
-<div align="center">
-
-<sub><i>"You have no enemies. No one has enemies.<br>
-There is no reason to harm anyone in the world."</i></sub>
-
-<sub>— Thors</sub>
-
-<br>
-
-<sub><a href="https://gowdaop.github.io/"><b>gowdaop.github.io</b></a></sub>
-
-</div>
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
+    <rect x="0.5" y="0.5" width="1199" height="339" rx="14" fill="none" stroke="#1E2536"/>
+  </g>
+</svg>
