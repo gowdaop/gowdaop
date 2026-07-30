@@ -9,7 +9,7 @@
 
 ### 👨‍💻 KS VIGNESH
 
-Intern Trainee @ Lantrasoft  
+Junior Software Developer @ Lantrasoft  
 📍 Bengaluru, India  
 🎓 B.E. in AI & ML @ JSS Academy  
 ⭐ CGPA: 8.5/10.0
@@ -21,15 +21,15 @@ Intern Trainee @ Lantrasoft
 ```yaml
 current_role:
   company: "Lantrasoft"
-  position: "Intern Trainee"
+  position: "Junior Software Developer"
   duration: "Jan 2026 - Present"
   location: "Bengaluru, India"
 
 education:
   degree: "B.E. AI & Machine Learning"
   university: "JSS Academy of Technical Education"
-  duration: "Dec 2022 - Present"
-  cgpa: "8.3"
+  duration: "Dec 2022 - June 2026"
+  cgpa: "8.5"
 
 certifications:
   - Oracle Cloud Gen AI Professional (1Z0-1127-25)
@@ -64,15 +64,15 @@ leadership:
 
 ```yaml
 name: "KS Vignesh"
-class: "AI Engineering Intern @ V2Soft"
-level: 8.3
+class: "Junior Software Developer @ Lantrasoft"
+level: 8.5
 guild: "JSS Academy of Technical Education"
 location: "Bengaluru, India"
 
 education:
   degree: "B.E. in AI & Machine Learning"
   institution: "JSS Academy"
-  duration: "Dec 2022 - Present"
+  duration: "Dec 2022 - June 2026"
   cgpa: "8.3 / 10.0"
 
 certifications:
@@ -98,7 +98,7 @@ experience:
   freelance:
     company: "NezDev"
     role: "cTrader API Developer"
-    duration: "Sept 2025 - Present"
+    duration: "Sept 2025 - Jan 2026"
     location: "Remote"
 
 key_achievements:
