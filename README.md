@@ -1,4 +1,4 @@
-<img src="./assets/banner.svg" width="100%" alt="KS Vignesh — backend · applied AI · Bengaluru"/>
+<img src="https://raw.githubusercontent.com/gowdaop/gowdaop/main/assets/banner.svg?v=2" width="100%" alt="KS Vignesh — backend · applied AI · Bengaluru"/>
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## <samp>▸ 01 &nbsp;WHO</samp>
 
@@ -48,7 +48,7 @@ Video Team Head — **VERVE Fest**
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## <samp>▸ 02 &nbsp;WHAT I BUILD</samp>
 
@@ -103,7 +103,7 @@ Logging, monitoring and profiling
 
 <sub>Production work lives in private repositories. Happy to walk through architecture and trade-offs on request.</sub>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## <samp>▸ 03 &nbsp;STACK</samp>
 
@@ -127,7 +127,7 @@ Logging, monitoring and profiling
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## <samp>▸ 04 &nbsp;CREDENTIALS</samp>
 
@@ -145,21 +145,9 @@ Logging, monitoring and profiling
 
 <sub>● earned &nbsp;&nbsp; ○ in progress &nbsp;·&nbsp; issued by IBM &nbsp;·&nbsp; [**verify on Credly ↗**](https://www.credly.com/users/k-s-vignesh.a0d09765)</sub>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## <samp>▸ 05 &nbsp;ACTIVITY</samp>
-
-<div align="center">
-
-<img width="47%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gowdaop&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&icon_color=22D3EE&text_color=8B97AD&ring_color=818CF8&cache_seconds=86400"/>
-&nbsp;&nbsp;
-<img width="34%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowdaop&layout=compact&hide_border=true&bg_color=00000000&title_color=818CF8&text_color=8B97AD&langs_count=6&cache_seconds=86400"/>
-
-</div>
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-## <samp>▸ 06 &nbsp;CURRENTLY</samp>
+## <samp>▸ 05 &nbsp;CURRENTLY</samp>
 
 ```console
 $ cat now.txt
@@ -184,4 +172,4 @@ There is no reason to harm anyone in the world."</i></sub>
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
